@@ -1,9 +1,10 @@
 <h1 align="center"><b>Customer Churn Prediction App</b></h1>
 
 <p align="center">
+ <img src="assets\image.png" alt="App Screenshot" width="600"/>
   <img src="assets\image-1.png" alt="App Screenshot" width="600"/>
   <img src="assets\image-2.png" alt="App Screenshot" width="600"/>
-  <img src="assets\image.png" alt="App Screenshot" width="600"/>
+  
 
 </p>
 
